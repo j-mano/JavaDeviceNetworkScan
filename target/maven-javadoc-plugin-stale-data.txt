@@ -1,0 +1,49 @@
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/joachim/NetBeansProjects/Network_Sniffer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Network_Sniffer 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/joachim/NetBeansProjects/Network_Sniffer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Network_Sniffer 1.0-SNAPSHOT API'
+com.mycompany.network_sniffer
+com.mycompany.network_sniffer
+com.mycompany.network_sniffer
+/home/joachim/NetBeansProjects/Network_Sniffer/src/main/java = 1605090852932
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/member-search-index.js = 1606231137281
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/package-search-index.zip = 1606231137281
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/allclasses.html = 1606231137297
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/overview-tree.html = 1606231137265
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/package-search-index.js = 1606231137273
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/allclasses-index.html = 1606231137285
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/type-search-index.js = 1606231137281
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/script.js = 1606231137305
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/stylesheet.css = 1606231137301
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/allpackages-index.html = 1606231137289
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/index.html = 1606231137297
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/element-list = 1606231137217
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/member-search-index.zip = 1606231137281
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/constant-values.html = 1606231137237
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/index-all.html = 1606231137281
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/deprecated-list.html = 1606231137293
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/serialized-form.html = 1606231137245
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/type-search-index.zip = 1606231137281
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/search.js = 1606231137305
+/home/joachim/NetBeansProjects/Network_Sniffer/target/site/apidocs/help-doc.html = 1606231137301
